@@ -155,15 +155,13 @@ a#login {background:url(../images/login.png) no-repeat left top; font-size: 12px
 a#regg {background:url(../images/register.png) no-repeat left top; font-size: 12px; list-style-type:none; text-decoration:none; width:112px; height:30px; display:inline-block;}
 
 /* three Tabsasdfasdf */
-.navtabs {
-			 margin:20px auto;  text-align:center; 
-}
-.navtabs a { line-height:34px; display:inline-block; text-decoration:none; font-size: 12px; list-style-type:none; color:#ffffff; margin:0 2px 2px 2px; height:34px;  }
-.navtabs a.thire1 {background:url(../images/welcomeBtn.png) no-repeat left top; display:inline-block; width:116px; height:34px;}
-.navtabs a.thire2 {background:url(../images/sports.png) no-repeat left top; display:inline-block; width:116px; height:34px; }
-.navtabs a.thire3 {background:url(../images/Multi.png) no-repeat left top; display:inline-block; width:116px; height:34px; }
-.navtabs a.thire4 {background:url(../images/discoverBtn.png) no-repeat left top; display:inline-block; width:116px; height:34px; }
-.navtabs a.thire5 {background:url(../images/mediaBtn.png) no-repeat left top; display:inline-block; width:116px; height:34px; }
+
+.navtabs { margin:20px auto; text-align:center }
+a.thire1 {background:url(../images/welcomeBtn.png) no-repeat left top; display:inline-block; width:116px; height:34px; }
+a.thire2 {background:url(../images/sports.png) no-repeat left top; display:inline-block; width:116px; height:34px; }
+a.thire3 {background:url(../images/Multi.png) no-repeat left top; display:inline-block; width:116px; height:34px; }
+a.thire4 {background:url(../images/discoverBtn.png) no-repeat left top; display:inline-block; width:116px; height:34px; }
+a.thire5 {background:url(../images/mediaBtn.png) no-repeat left top; display:inline-block; width:116px; height:34px; }
 
 
 
