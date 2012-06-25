@@ -156,7 +156,7 @@ a#regg {background:url(../images/register.png) no-repeat left top; font-size: 12
 
 /* three Tabsasdfasdf */
 
-.centerTabs { margin:20px auto; text-align:center }
+#centerTabs { margin:20px auto; text-align:center }
 a#thire1 {background:url(../images/welcomeBtn.png) no-repeat left top; display:inline-block; width:116px; height:34px; }
 a#thire2 {background:url(../images/sports.png) no-repeat left top; display:inline-block; width:116px; height:34px; }
 a#thire3 {background:url(../images/Multi.png) no-repeat left top; display:inline-block; width:116px; height:34px; }
